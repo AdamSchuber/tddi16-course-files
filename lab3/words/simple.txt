@@ -1,0 +1,7 @@
+aaaa
+aaab
+baaa
+aabb
+baba
+babb
+#

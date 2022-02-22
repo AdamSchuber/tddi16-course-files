@@ -1,0 +1,10 @@
+aula
+gula
+gala
+gama
+jama
+sten
+#
+aula jama
+aula
+sten aula
